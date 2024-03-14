@@ -11,10 +11,10 @@ h2 {
 
 button {
   padding: 0.25rem 0.5rem;
-
+  
   text-transform: uppercase;
   font-size: 0.725rem;
-
+  
   cursor: pointer;
 }
 
@@ -23,9 +23,9 @@ button {
 #store {
   height: 40vh;
   padding: 1rem;
-
+  
   overflow-y: scroll;
-
+  
   background-color: #e7f4ea;
 }
 
